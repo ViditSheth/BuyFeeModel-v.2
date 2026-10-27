@@ -1,0 +1,4 @@
+Target,Readiness,Rows,Locations,Corporate_Change_Dates,Fixed_Effects_R2,Fixed_Effects_Fee_Coefficient,Fixed_Effects_Fee_PValue,Median_Grouped_R2,Median_Grouped_Direction,Fee_Sign_Stability,Interpretation
+Volume,RESEARCH ONLY,1843,35,37,0.4010183447922532,-0.0002530797089053643,0.8698538172780855,-0.07117155284708176,0.5306122448979592,0.918918918918919,Grouped out-of-change-date R² is below GO threshold. | Direction accuracy is below GO threshold.
+Conversion,RESEARCH ONLY,1843,35,37,0.4302196401719939,-0.06536931538365584,0.18521488420044385,0.08707816813976277,0.6633663366336634,0.972972972972973,Grouped out-of-change-date R² is below GO threshold.
+RPU,GO,504,26,34,0.5347185579945349,0.10131046829193502,0.39011446871928035,0.28794229862040444,0.8171470342522974,1.0,Independent support and grouped-validation stability meet V7 gates.

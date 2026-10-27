@@ -1,0 +1,11 @@
+Metric,Value
+Unique_Valid_Locations,54.0
+Unique_Valid_Lanes,361.0
+Raw_Rows_Processed,5540598.0
+Valid_Inventory_Rows,5528661.0
+Sold_Rows,149463.0
+NOS_Rows,2265049.0
+Excluded_INV_Rows,3389.0
+Excluded_SAL_Rows,8548.0
+Sold_With_BUYFEE_FINAL,55269.0
+Sold_BUYFEE_FINAL_Coverage,0.36978382609742877
