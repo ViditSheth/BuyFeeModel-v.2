@@ -1,0 +1,10 @@
+Check,Status,Detail
+SALEAMT_FINAL tiering,PASS,All price tiers are created from SALEAMT_FINAL for sold and unsold vehicles.
+True fee-change filter,PASS,"Only BUYFEE_CHANGE_STATUS == ""Change"" creates a treatment event."
+Realized RPU source,PASS,Realized RPU uses Buyer_BuyFee on valid sold vehicles.
+Event deduplication,PASS,Fee events are deduplicated at Location × Lane × Price Tier × Change Date.
+Low-volume filtering,PASS,Primary 8W thresholds: registered >= 25 pre and >= 25 post.
+RPU exposure filtering,PASS,RPU requires sold >= 15 pre and >= 15 post.
+Grouped IDs,PASS,"Corporate, Location, and Segment change IDs were created."
+Overlap detection,PASS,Fee events within 8W before or 8W after another change are flagged.
+Buyer composition,OPTIONAL NEXT STEP,Not required for core dataset. Can be added later from the separate buyer file.

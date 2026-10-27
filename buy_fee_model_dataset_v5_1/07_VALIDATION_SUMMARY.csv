@@ -1,0 +1,16 @@
+Metric,Value
+VIN_Rows_Processed,5540598.0
+Weekly_Panel_Rows,1693919.0
+Clean_Segment_Fee_Events,9251.0
+Location_Change_Events,103.0
+Corporate_Change_Dates,51.0
+Fee_Increase_Events,9009.0
+Fee_Decrease_Events,242.0
+Median_Fee_Change,20.0
+Primary_Model_Eligible,85.0
+Strict_No_Overlap_Eligible,85.0
+RPU_Eligible,0.0
+Median_Weekly_Registered,2.0
+Median_Weekly_Sold,0.0
+Weekly_RPU_NonNull_Pct,0.03860810345713107
+Overlap_Event_Pct,0.07728894173602854
