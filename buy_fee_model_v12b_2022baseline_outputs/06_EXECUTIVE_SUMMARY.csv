@@ -1,0 +1,9 @@
+Metric,Value
+Buyer_Baseline_Start,2022-01-01 00:00:00
+Buyer_Baseline_End,2022-09-30 00:00:00
+Buyer_Baseline_Locations,49
+2023plus_Fee_Events,810
+2023plus_Events_With_Buyer_Baseline,783
+Buyer_Baseline_Coverage_Rate,0.9666666666666667
+Fee_Event_Locations,24
+Corporate_Change_Dates,29

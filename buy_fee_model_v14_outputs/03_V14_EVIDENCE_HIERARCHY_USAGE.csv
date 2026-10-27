@@ -1,0 +1,16 @@
+Scenario,Evidence_Level_Used,Evidence_Strength,Decision_Rows,Share_Within_Scenario
+10,Exact Segment,Limited,36,0.07072691552062868
+10,Lane x Price Tier,Limited,9,0.01768172888015717
+10,Location,Moderate,8,0.015717092337917484
+10,Location x Price Tier,Limited,117,0.22986247544204322
+10,Location x Price Tier,Strong,44,0.08644400785854617
+10,Portfolio Scenario,Strong,19,0.03732809430255403
+10,Price Tier,Moderate,21,0.0412573673870334
+10,Price Tier,Strong,255,0.5009823182711198
+15,Portfolio Scenario,Strong,441,0.8664047151277013
+15,Price Tier,Moderate,68,0.13359528487229863
+20,Exact Segment,Limited,1,0.0019646365422396855
+20,Location,Moderate,19,0.03732809430255403
+20,Location x Price Tier,Limited,27,0.05304518664047151
+20,Portfolio Scenario,Strong,370,0.7269155206286837
+20,Price Tier,Moderate,92,0.1807465618860511

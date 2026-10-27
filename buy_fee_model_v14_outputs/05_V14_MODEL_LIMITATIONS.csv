@@ -1,0 +1,9 @@
+Area,V14_Treatment
+Purpose,Directional decision support; not an exact fee elasticity forecast.
+RPU,Uses empirical matched-control outcome distributions and reports ranges.
+Conversion,Uses observed downside frequencies and empirical ranges as guardrails.
+Volume,Uses observed downside frequencies and empirical ranges as guardrails.
+Sparse exact segments,Automatically backs off through a transparent evidence hierarchy.
+V11 predictive model,Validation is shown as context only; weak point-prediction accuracy does not drive empirical ranges.
+Buyer data,Not used as event-time evidence because available buyer history ends before 2023 fee events.
+Future updates,New cleaner events can be appended to V8-style event evidence; ranges and evidence strength will update.

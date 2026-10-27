@@ -1,0 +1,15 @@
+Metric,Value
+Buyer_History_Start,2019-12-30 00:00:00
+Buyer_History_End,2022-09-24 00:00:00
+Fee_Event_Start,2023-02-12 00:00:00
+Fee_Event_End,2026-02-08 00:00:00
+Required_Buyer_History_Start_For_56_Day_Window,2022-12-18 00:00:00
+Required_Buyer_History_End_For_56_Day_Window,2026-04-05 00:00:00
+Date_Ranges_Overlap,False
+Matched_Pairs_Inside_Buyer_History,0
+Total_Matched_Pairs,2425
+Pct_Matched_Pairs_Inside_Buyer_History,0.0
+Gap_Days_Buyer_End_To_First_Fee_Event,141
+Treated_Locations_Matched,23
+Control_Locations_Matched,46
+Buyer_DiD_Available,False
